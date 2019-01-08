@@ -1,0 +1,28 @@
+//Filename: ip1a_alexisb_maxt_list.cpp
+//Desc: Objective: Write a program that uses cout and endl to output text. 
+//Authors: Alexis & Max 
+//Date: Jan 8 2019
+
+#include <iostream> 
+using namespace std;
+
+int main ()
+
+{
+    cout << "Fruits\n" << endl;
+    
+    cout << "Orange" << endl;
+    
+    cout << "Apple" << endl;
+    
+    cout << "Kiwi" << endl;
+    
+    cout << "Pear" << endl;
+    
+    cout << "Grapefruit" << endl << "Banana" << endl << "Strawberry" << endl << "Cherry" << endl << "Mango" << endl << "Papaya" << endl;
+    
+    
+    
+    
+    
+}
