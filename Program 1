@@ -2,12 +2,13 @@
 //Desc: Objective: Write a program that uses cout and endl to output text. 
 //Authors: Alexis & Max 
 //Date: Jan 8 2019
+//Written by: Alexis, Watched by Maxa
 
 #include <iostream> 
 using namespace std;
 
 int main ()
-
+a
 {
     cout << "Fruits\n" << endl;
     
